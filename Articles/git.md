@@ -1,4 +1,4 @@
-`
+
 Git branching strategy :
 
 users/username/description
@@ -9,4 +9,4 @@ feature/feature-area/feature-name
 hotfix/description
 
 hotfix - single, cumulative package that includes information (often in the form of one or more files) that is used to address a problem in a software product (i.e., a software bug). Typically, hotfixes are made to address a specific customer situation.
-`
+
