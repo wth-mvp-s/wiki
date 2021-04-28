@@ -10,3 +10,7 @@ hotfix/description
 
 hotfix - single, cumulative package that includes information (often in the form of one or more files) that is used to address a problem in a software product (i.e., a software bug). Typically, hotfixes are made to address a specific customer situation.
 
+
+Nugat :
+
+consolidation tab is geared to display discrepancies between projects where both consume the same nuget package but are targeting different versions.
