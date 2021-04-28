@@ -13,8 +13,8 @@ hotfix - single, cumulative package that includes information (often in the form
 
 Nugat :
 
-consolidation - discrepancies between projects where both consume the same nuget package but are targeting different versions.
+consolidation tab - discrepancies between projects where both consume the same nuget package but are targeting different versions.
 
-discrepancies - an illogical or surprising lack of compatibility or similarity between two or more facts.
+discrepancies (sygnification)- an illogical or surprising lack of compatibility or similarity between two or more facts.
 
-Artifacts - sharing packages 
+Azure Artifacts - sharing packages 
