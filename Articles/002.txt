@@ -1,6 +1,6 @@
 
 		
-VueJS	vs Angular
+VueJS vs Angular
 		
 plan : 
       - CLI 		
