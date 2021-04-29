@@ -17,7 +17,13 @@ plan :
 
       9. - state 	Vuex vs Ngrx
       10. - test Angular vs test VueJS
+      
 
 Ad.1. 
 
 Angular CLI 
+
+vocabulaire : 
+TypeScript, ESLint, PostCSS, PWA, Unit Testing & End-to-end Testing.
+native ES2015 code
+need for ejecting CLI 
