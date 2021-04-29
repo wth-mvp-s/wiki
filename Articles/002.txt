@@ -4,6 +4,8 @@ VueJS vs Angular
 		
 plan : 
       1. - Angular CLI vs Vue CLi
+      	1.1. yern vs npm
+	
       2. - directives 		
       3. - composant monofichier		
       4. - router vue 		
@@ -15,3 +17,7 @@ plan :
 
       9. - state 	Vuex vs Ngrx
       10. - test Angular vs test VueJS
+
+Ad.1. 
+
+Angular CLI 
