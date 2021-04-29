@@ -1,1 +1,16 @@
 
+		
+VueJS	vs Angular
+		
+plan : 
+      - CLI 		
+      - directives 		
+      - composant monofichier		
+      - router vue 		
+      - composant styles		
+      - determiner quand votre code soit s'executer		
+          composant flexible avec les slot
+      - parent to child		
+      - child to parent 		
+
+      - state 	Vuex vs Ngrx
