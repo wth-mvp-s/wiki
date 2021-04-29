@@ -24,6 +24,6 @@ Ad.1.
 Angular CLI 
 
 vocabulaire : 
-TypeScript, ESLint, PostCSS, PWA, Unit Testing & End-to-end Testing.
+TypeScript, ESLint, PostCSS, PWA, Vue Unit Testing & Vue End-to-end Testing.
 native ES2015 code
 need for ejecting CLI 
