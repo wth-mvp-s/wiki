@@ -3,15 +3,15 @@
 VueJS vs Angular
 		
 plan : 
-      - CLI 		
-      - directives 		
-      - composant monofichier		
-      - router vue 		
-      - composant styles		
-      - determiner quand votre code soit s'executer		
+      1. - Angular CLI vs Vue CLi
+      2. - directives 		
+      3. - composant monofichier		
+      4. - router vue 		
+      5. - composant styles		
+      6. - determiner quand votre code soit s'executer		
           composant flexible avec les slot
-      - parent to child		
-      - child to parent 		
+      7. - parent to child		
+      8. - child to parent 		
 
-      - state 	Vuex vs Ngrx
-      - test Angular vs test VueJS
+      9. - state 	Vuex vs Ngrx
+      10. - test Angular vs test VueJS
