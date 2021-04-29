@@ -1,16 +1,24 @@
 
 QR: 
-Architect vs menager
-graphisme vs it
-best practice vs design pattern
-pourquoi Microsoft
-pourquoi programmation
-state menagement utilité
-design pattern bonne reponse
-zip - pourquoi 
-entre karma et Jasmine
+    001. Architect vs menager
+    00. graphisme vs it
+    00. best practice vs design pattern
+    00. pourquoi Microsoft
+    00. pourquoi programmation
+    00. state menagement utilité
+    00. design pattern bonne reponse
+    00. zip - pourquoi 
+    00. entre karma et Jasmine
+    0010. long term vs short term release .net
 
 
+Ad.1010. 
+
+Microsoft's .NET platforms support types: 
+
+    - Operating system - very long-term support that's tied to the operating system's support lifecycle (often ten or more years)
+    - Long-term Support (LTS); 3 years
+    - Current Release; 3 months
 
 
 
