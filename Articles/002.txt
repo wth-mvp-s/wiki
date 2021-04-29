@@ -14,3 +14,4 @@ plan :
       - child to parent 		
 
       - state 	Vuex vs Ngrx
+      - test Angular vs test VueJS
