@@ -8,6 +8,8 @@ pourquoi programmation
 state menagement utilité
 design pattern bonne reponse
 zip - pourquoi 
+entre karma et Jasmine
+
 
 
 
