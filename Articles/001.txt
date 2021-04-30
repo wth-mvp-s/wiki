@@ -1,3 +1,11 @@
+journal : 
+
+30apr2021
+
+    fetch - retrieve yet doesn't do any file transferring.
+    pull - retrieve.
+
+
 
 Git branching strategy :
 
