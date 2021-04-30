@@ -2,8 +2,8 @@
 async/await since C# 5.
 delegate and events - loosely coopled app
 ASP.NET, WPF, WinForms - work with events 
-parallelism - multi threads on diffirent CPUs
 thread - virtualized CPU, orchstred by OS (context switching)
+parallelism - multi threads on diffirent CPUs
 CPU registers - state data 
 
 
