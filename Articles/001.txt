@@ -4,6 +4,8 @@ journal :
 
     fetch - retrieve yet doesn't do any file transferring.
     pull - retrieve.
+    
+    fetch - go for and then bring back (someone or something) for someone. "he ran to fetch help"
 
 
 
