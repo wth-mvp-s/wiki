@@ -9,9 +9,10 @@ plan :
 		
 				Angular 	VueJS
 		dry 	|	-d
-		flat	|	
+		flat	|	--flat
 		test 	|
 		module 	| 	
+				--style scss
 	
       2. - directives 		
       3. - composant monofichier		
