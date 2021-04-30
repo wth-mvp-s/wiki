@@ -5,6 +5,13 @@ VueJS vs Angular
 plan : 
       1. - Angular CLI vs Vue CLi
       	1.1. yern vs npm
+	1.2. 
+		
+				Angular 	VueJS
+		dry 	|	-d
+		flat	|	
+		test 	|
+		module 	| 	
 	
       2. - directives 		
       3. - composant monofichier		
