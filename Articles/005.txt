@@ -159,3 +159,22 @@ string str1 = MaClasse.MA_VARIABLE_CONSTANTE;
 string str2 = "Ceci est une constante";
 
 }
+
+Optimisation_de_code
+
+1. good algorithm design
+2. good implementations
+3. micro-optimizations
+cd. 
+Une spécificité du binaire : le décalage
+Utilisation de variables locales pour éviter les alias de mémoire
+
+void MyClass::DoSomething()
+ {
+     const int nbrElements = m_nbrElements;
+     for( int i=0; i<nbrElements; ++i )
+     {
+         ....
+     }
+ }
+
