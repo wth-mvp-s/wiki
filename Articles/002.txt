@@ -23,7 +23,7 @@ plan :
       7. - parent to child		
       8. - child to parent 		
 
-      9. - state 	Vuex vs Ngrx
+      9. - state 	Vuex vs Ngrx -> control over multiple (3) diffirent state
       10. - test Angular vs test VueJS
       
 
